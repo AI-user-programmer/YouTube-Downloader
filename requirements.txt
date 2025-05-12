@@ -1,6 +1,7 @@
 pyrogram
-aiohttp>=3.12.3
+aiohttp==3.10.11
 pydub
+pytube
 tgcrypto
 yt-dlp
 ffmpeg-python
