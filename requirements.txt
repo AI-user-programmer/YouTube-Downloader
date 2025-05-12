@@ -1,7 +1,8 @@
-pyrogram
-aiohttp==3.10.11
-pydub
-pytube
-tgcrypto
-yt-dlp
-ffmpeg-python
+pyrogram==2.0.106
+aiohttp==3.9.5
+pydub==0.25.1
+pytube==15.0.0
+tgcrypto==1.2.5
+yt-dlp==2023.12.30
+ffmpeg-python==0.2.0
+pymongo==4.7.2
